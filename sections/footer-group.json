@@ -1,0 +1,81 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "9de922a7-3716-41dd-98ce-2a94c43750f0": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<img src=\"https:\/\/bulkjerky.com\/cdn\/shop\/files\/insta.jpg\" style=\"\n    width: 100%;\n\">",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "eb41194c-dd88-4675-b652-fdbf04e8bed3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/footer-logo.png",
+            "image_width": 195,
+            "alignment": "center"
+          }
+        },
+        "c77106e5-767a-4abe-9058-5f9c8a5fd279": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop",
+            "menu": "new-shop"
+          }
+        },
+        "29a4ed22-e856-4ca5-931d-49c5808b5fb3": {
+          "type": "link_list",
+          "settings": {
+            "heading": "About",
+            "menu": "new-about"
+          }
+        },
+        "0493cba2-5bad-4e38-af97-5ee8821f70cf": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Help",
+            "menu": "new-help"
+          }
+        },
+        "589ed1f1-4181-45ed-94c0-9257d498233e": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "eb41194c-dd88-4675-b652-fdbf04e8bed3",
+        "c77106e5-767a-4abe-9058-5f9c8a5fd279",
+        "29a4ed22-e856-4ca5-931d-49c5808b5fb3",
+        "0493cba2-5bad-4e38-af97-5ee8821f70cf",
+        "589ed1f1-4181-45ed-94c0-9257d498233e"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "9de922a7-3716-41dd-98ce-2a94c43750f0",
+    "footer"
+  ]
+}

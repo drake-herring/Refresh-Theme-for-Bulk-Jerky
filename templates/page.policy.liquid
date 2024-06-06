@@ -1,0 +1,13 @@
+<div class="conatnt-pages">
+
+  <div class="page-width">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="rte">
+      {{ page.content | replace: '<img', '<img loading="lazy"' | replace: '<iframe', '<iframe loading="lazy"' | replace: '<video', '<video preload="none"' }}
+    </div>
+
+  </div>
+
+</div>

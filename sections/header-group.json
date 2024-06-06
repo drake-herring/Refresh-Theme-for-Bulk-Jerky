@@ -1,0 +1,61 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "3d55c579-b2a6-4a4d-aa51-d4b0143038d9": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "15% OFF HOLIDAY SALE: HOLIDAY15",
+            "link": ""
+          }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "free shipping over $100",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3d55c579-b2a6-4a4d-aa51-d4b0143038d9",
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e8ce4f19-a46a-4dfd-ad40-9e3fbd9ba3f5",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "new-home",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "always",
+        "show_line_separator": false,
+        "color_scheme": "inverse",
+        "menu_color_scheme": "inverse",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

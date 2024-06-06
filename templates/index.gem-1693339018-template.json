@@ -1,0 +1,318 @@
+{
+  "sections": {
+    "be5af5a5-fb48-4481-8034-33f6ecca2b1f": {
+      "type": "home_slideshow",
+      "blocks": {
+        "template--14607198617658__be5af5a5-fb48-4481-8034-33f6ecca2b1f-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_6.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/image_2023_08_25T04_27_25_457Z.png",
+            "heading": "HOME OF THE 5 POUNDERS",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14607198617658__be5af5a5-fb48-4481-8034-33f6ecca2b1f-slide-1"
+      ],
+      "settings": {
+        "custom_class": "home_page_banner",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "c33f6a8e-ff09-4e9c-998e-b82440918e10": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-1.png",
+            "title": "VALUE PROP ONE",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-2.png",
+            "title": "Value Prop Two",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-3.png",
+            "title": "Value Prop Three",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0741eb0d-dd0c-4b61-9864-be938c995e85": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>You may know us as Bulk Beef Jerky. We're now offering our jerky products in true bulk fashion, all in one place. For those that don't know us, we're the true American fuel for those who refuse to be ordinary. So grab a bag and embrace the extraordinary.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-1",
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-2",
+        "template--14607198617658__c33f6a8e-ff09-4e9c-998e-b82440918e10-column-3",
+        "0741eb0d-dd0c-4b61-9864-be938c995e85"
+      ],
+      "settings": {
+        "class_name": "key-statement-sec  multi-strong",
+        "title": "STRONG AMERICAN SNACKS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 40
+      }
+    },
+    "featured-collection-0": {
+      "type": "featured-collection",
+      "settings": {
+        "class_name": "best-sellers-sec",
+        "title": "Shop Best Sellers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-natural-brisket-jerky",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
+    "7825338d-7057-4551-bfe9-2eaa8fe6210f": {
+      "type": "image-banner",
+      "settings": {
+        "class_name": "custom-banner banner-sec",
+        "image": "shopify:\/\/shop_images\/Artboard_6_30.jpg",
+        "image_2": "shopify:\/\/shop_images\/image_2023_08_25T04_27_13_342Z.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "0784e579-89c8-4d3c-b754-c23e7deae760": {
+      "type": "multicolumn",
+      "blocks": {
+        "d9cc1c06-d6e7-4f91-83c6-b87efeca8470": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/start_97868c91-82ba-4536-83e2-96e95a385ec5.png",
+            "title": "FANTASTIC JERKY",
+            "text": "<p>\"Why are you wasting time reading the comments?\" Order it already! - Tanner.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "301ba4b9-4fce-4af2-88bf-71aa308f78b0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/start_97868c91-82ba-4536-83e2-96e95a385ec5.png",
+            "title": "BRISKET TIME!",
+            "text": "<p>\"The best and most flavorful brisket jerky. Soft to chew, long lasting taste. Will definitely reorder.\" - Eric I.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2df0e902-1a39-48da-a5e8-9d7d2c89f1b8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/start_97868c91-82ba-4536-83e2-96e95a385ec5.png",
+            "title": "Excellent Brisket",
+            "text": "<p>\"I love the tenderness and sweetness. Simply satisfying.\" - Angela W.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d9cc1c06-d6e7-4f91-83c6-b87efeca8470",
+        "301ba4b9-4fce-4af2-88bf-71aa308f78b0",
+        "2df0e902-1a39-48da-a5e8-9d7d2c89f1b8"
+      ],
+      "settings": {
+        "class_name": "key-statement-sec reviews-sec  margin-bottom",
+        "title": "BULK FAM REVIEWS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 64
+      }
+    },
+    "cd6b72e8-6460-42a0-bf66-941771d28a5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Bulk Story",
+            "heading_size": "h1"
+          }
+        },
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Petey G started Bulk from taking a \"No\" into a \"F**K Yes\". There was a need to offer jerky in bulk sizing and took on the feat. Fast forward, that leap would turn into owning a USDA plant, co manufacturing elite recipes, and opening up tasting rooms. We're not your ordinary beef jerky company.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-heading-1",
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-text-1",
+        "template--14607198617658__cd6b72e8-6460-42a0-bf66-941771d28a5e-button-1"
+      ],
+      "settings": {
+        "class_name": "the-bulk-story-sec",
+        "image": "shopify:\/\/shop_images\/Artboard_8.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9e18c1a8-5851-468e-96a4-e6fb661301ae": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14607198617658__9e18c1a8-5851-468e-96a4-e6fb661301ae-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign Up For 10% OFF your first order.",
+            "heading_size": "h1"
+          }
+        },
+        "eb22fcda-cd8f-4840-8e34-e1d4a9d3c2e5": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--14607198617658__9e18c1a8-5851-468e-96a4-e6fb661301ae-email_form-1": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--14607198617658__9e18c1a8-5851-468e-96a4-e6fb661301ae-heading-1",
+        "eb22fcda-cd8f-4840-8e34-e1d4a9d3c2e5",
+        "template--14607198617658__9e18c1a8-5851-468e-96a4-e6fb661301ae-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e8ce4f19-a46a-4dfd-ad40-9e3fbd9ba3f5",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
+    "1692789008c192ed57": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "be5af5a5-fb48-4481-8034-33f6ecca2b1f",
+    "c33f6a8e-ff09-4e9c-998e-b82440918e10",
+    "featured-collection-0",
+    "7825338d-7057-4551-bfe9-2eaa8fe6210f",
+    "0784e579-89c8-4d3c-b754-c23e7deae760",
+    "cd6b72e8-6460-42a0-bf66-941771d28a5e",
+    "9e18c1a8-5851-468e-96a4-e6fb661301ae",
+    "1692789008c192ed57",
+    "pagefly-home"
+  ]
+}

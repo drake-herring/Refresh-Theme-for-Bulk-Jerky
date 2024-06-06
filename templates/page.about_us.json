@@ -1,0 +1,140 @@
+{
+  "sections": {
+    "1b35f413-41b2-4397-9e63-ec187d2cf1db": {
+      "type": "image-banner",
+      "blocks": {
+        "4c5147aa-33ee-497b-954c-cb4a0c5f3041": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "26357f4f-e44e-4c52-b7ed-e944ea070c6d": {
+          "type": "text",
+          "settings": {
+            "text": "Home > {{ page.title }}",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "4c5147aa-33ee-497b-954c-cb4a0c5f3041",
+        "26357f4f-e44e-4c52-b7ed-e944ea070c6d"
+      ],
+      "disabled": true,
+      "settings": {
+        "class_name": "page_banner",
+        "image": "shopify:\/\/shop_images\/Artboard_6.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "a5690af5-9632-4f9e-a5ff-b2bc2f06993d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14609231675450__a5690af5-9632-4f9e-a5ff-b2bc2f06993d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE BULK BRAND",
+            "heading_size": "h1"
+          }
+        },
+        "template--14609231675450__a5690af5-9632-4f9e-a5ff-b2bc2f06993d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We take pride in our commitment to American manufacturing. We source our ingredients from established and reliable American suppliers, and set ourselves apart by owning our recipes and manufacturing.<\/p><p>Curious of how it all started? By reading through our story below, we welcome you to the BULK Fam!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14609231675450__a5690af5-9632-4f9e-a5ff-b2bc2f06993d-heading-1",
+        "template--14609231675450__a5690af5-9632-4f9e-a5ff-b2bc2f06993d-text-1"
+      ],
+      "settings": {
+        "class_name": "who_are_you",
+        "image": "shopify:\/\/shop_images\/Artboard_8.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "96c801a5-dbfd-47d6-afca-fe9abd9928d9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14609231675450__96c801a5-dbfd-47d6-afca-fe9abd9928d9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR STORY",
+            "heading_size": "h1"
+          }
+        },
+        "template--14609231675450__96c801a5-dbfd-47d6-afca-fe9abd9928d9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "In 2004 founder Pete Garbowski graduated from <a href=\"http:\/\/www.facebook.com\/goldengrizzlies\">Oakland University <\/a>in Rochester, Michigan with a BS degree in information technology.  Pete went to work for a startup company, \"Tell Vision\" , that was started by entrepreneur Rick Coletti (Rick showed Pete the ropes to the real world).  He sold digital signage that evolved into selling websites and web content. Pete approached a local beef jerky company and started talking with them about creating a website to sell <a href=\"https:\/\/www.bulkbeefjerky.com\/\" target=\"_self\">beef jerky on the internet<\/a>.  In preparation for the \"big pitch\" Pete started researching the online beef jerky market.  He discovered that in 2004 over 7,800 people searched the internet for \"beef jerky\" on a daily basis. Pete took a look at all of the competitors in the marketplace, and put together a \"kick ass\" presentation for the beef jerky company. Being a young entrepreneur himself, Pete thought that he had found the \"golden ticket\" to web riches for the beef jerky company... (so he thought). <strong>\"Presentation Time\"<\/strong> - Pete entered the meeting full of excitement and enthusiasm. Pete gave the best pitch of his life, he was 23 at the time.  He left the meeting feeling like he had just presented the beef jerky company with insight into what the \"power\" of the internet could do for their company. Think about it ... 7,800 potential customers on a daily basis - multiply that by 365:  7,800 x 365 = 2,847,000. Almost 3,000,000 people per year in the United States searching for beef jerky. WOW! Now take 5% of that number and you get 142,350 potential customers in 1 year. Not bad right? If every customer made you $5.00 you would have a pretty solid online business. <strong>\"The Follow up\"<\/strong> - Three days later and extremely confident that he was about to close the biggest deal of his young career, Pete made the follow up call, \"Hi is Chuck in?\" The secretary replied, \"No, he's not in can I take a message?\" Pete left his message referring to his proposal. The following morning Pete made the same call, only to receive the same secretary, with the same response. No, he's not in can I take a message?\" Pete left several message through out the week and continued to get the same result. Pete had lost hope for this great beef jerky idea. <strong>\"Motivation\"<\/strong> - Pete was upset that he was ignored by Chuck & the beef jerky company.  He put in hours of work pulling in data, looking at competitors websites, buying their beef jerky and tasting their product line. As time went on, Pete thought about the beef jerky company and his internet beef jerky idea. A voice within kept telling him ,\"someone's going to do it, why not you?\". <strong>\"So He Did \" <\/strong>- In 2015 Pete went full time online and then opened a retail \/ distribution center in San Pedro, California. <strong>\"Why Bulk\" - <\/strong>The name Bulk Beef Jerky represents \"<strong>B<\/strong>uilding <strong>U<\/strong>p <strong>L<\/strong>ives with <strong>K<\/strong>indness\"  - we are kind to our customers and to the world.  We follow our hearts and we do whats right.<strong> Bulk Beef Jerky <\/strong>Today- It looks like the idea panned out, thousands of customers later & growing - we give our customers the best beef jerky and customer service available. Thank you for reading our story. Try us out and let us know what you think. (Oh yah and if you actually read all of this - email Petey himself - you never know what kind of offer, free beef jerky sample or coupon he may have for you): pete@bulkbeefjerky.com",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14609231675450__96c801a5-dbfd-47d6-afca-fe9abd9928d9-heading-1",
+        "template--14609231675450__96c801a5-dbfd-47d6-afca-fe9abd9928d9-text-1"
+      ],
+      "settings": {
+        "class_name": "you_locted bg-red",
+        "image_overlay_opacity": 100,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5af83d5a-3f6b-493f-94ed-c6f015e02521": {
+      "type": "image-banner",
+      "settings": {
+        "class_name": "custom-banner about_banner",
+        "image": "shopify:\/\/shop_images\/image_2023_08_28T14_39_27_935Z.png",
+        "image_2": "shopify:\/\/shop_images\/image_2023_08_28T14_39_12_989Z.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "1b35f413-41b2-4397-9e63-ec187d2cf1db",
+    "a5690af5-9632-4f9e-a5ff-b2bc2f06993d",
+    "96c801a5-dbfd-47d6-afca-fe9abd9928d9",
+    "5af83d5a-3f6b-493f-94ed-c6f015e02521"
+  ]
+}
