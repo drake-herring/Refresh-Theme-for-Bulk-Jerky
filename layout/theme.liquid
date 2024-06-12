@@ -303,7 +303,11 @@
 {% render 'gem-app-header-scripts' %}
 <!--End_Gem_Page_Header_Script-->
 {% render 'gp-head' %}
-{% include 'pagefly-app-header' %}</head>
+{% include 'pagefly-app-header' %}
+
+    {% render 'GTM-product-datalayer' %}
+    
+  </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %} ">
 

@@ -242,7 +242,7 @@
                 <span class="price_per_oz">
                   {% for variant in card_product.variants %}
                     {% if forloop.index == 3 %}
-                      ({{ variant.price | times: 0.0125 | money }}/oz)
+                      ({{ variant.price | times: 0.0625 | money }}/oz)
                     {% endif %}
                   {% endfor %}
                 </span>

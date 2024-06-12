@@ -1361,3 +1361,7 @@ td.cart-item__totals.right {
 body.gradient[data-page="addProductsPage1"] nav.header__inline-menu {
     display: none !important;
 }
+
+.seal-subscription-page {
+    display: none !important;
+}
