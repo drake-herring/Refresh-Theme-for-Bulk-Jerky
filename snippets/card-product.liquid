@@ -234,15 +234,15 @@
               {% elsif card_product.tags contains 'brisket-jerky' %}
                 <span class="card_price_item">
                   {% for variant in card_product.variants %}
-                    {% if forloop.index == 3 %}
+                    {% if forloop.index == 4 %}
                       {{ variant.price | money }}
                     {% endif %}
                   {% endfor %}
                 </span>
                 <span class="price_per_oz">
                   {% for variant in card_product.variants %}
-                    {% if forloop.index == 3 %}
-                      ({{ variant.price | times: 0.0625 | money }}/oz)
+                    {% if forloop.index == 4 %}
+                      ({{ variant.price | times: 0.0125 | money }}/oz)
                     {% endif %}
                   {% endfor %}
                 </span>

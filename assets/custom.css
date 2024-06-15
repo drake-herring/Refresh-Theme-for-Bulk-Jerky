@@ -378,6 +378,11 @@ a.button.button--primary:hover {
     color: #f2ad40 !important;
 }
 
+ul.swatch-view.swatch-view-button {
+    display: block;
+    text-wrap: wrap;
+}
+
 /* review part css*/
 .key-statement-sec .multicolumn-list.contains-content-container li {
     padding: 0 15px;
@@ -1319,14 +1324,15 @@ a.styles_Button__fullWidth__uCmBU.UpcartDesignSettings__button.upcart-checkout-b
 
 
 /********** WHOLESALE PAGE *********/
-.contact-form3 {
+#ContactForm {
     max-width: 800px;
+    margin: auto;
 }
-.contact-form3 .contact__fields {
+#ContactForm .contact__fields {
     display: block !important;
 }
-.contact-form3 #ContactForm input,
-.contact-form3 #ContactForm textarea {
+#ContactForm input,
+#ContactForm textarea {
     border: 1px solid #e3e3e3;
 }
 
